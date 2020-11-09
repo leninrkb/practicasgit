@@ -16,4 +16,9 @@ public class clase1{
 			System.out.println(" tercer for xd");
 		}
 	}
+
+	while(){
+
+		
+	}
 }
